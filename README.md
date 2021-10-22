@@ -1,2 +1,2 @@
 # moshify pratice
-https://danielkim2711.netlify.app/
+danielkim2711-moshify.netlify.app
